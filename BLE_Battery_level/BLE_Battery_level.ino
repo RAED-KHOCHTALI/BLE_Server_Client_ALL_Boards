@@ -8,7 +8,6 @@
    5. Start the service.
    6. Start advertising.
 */
-
 #include <BLE2902.h> // to ba able to use the notify option
 #include <BLEAdvertisedDevice.h>
 #include <BLEDevice.h> // functions needed to configure a client
